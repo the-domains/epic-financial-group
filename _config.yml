@@ -1,0 +1,28 @@
+name: Epic Financial Group
+favicon: null
+layout_spectrum: 0.35687883640639484
+typography_spectrum: 0.5277697322890162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#bf1e2d'
+    - '#979797'
+    - '#616161'
+  brandStrength: 0.5341230083722621
+  lightness: 0.3044937886297703
+  saturation: 0.08606229955330491
+  rhythmicContrast: 0.7378323010634631
+purpose: []
